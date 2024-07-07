@@ -27,4 +27,4 @@ With a rich background in software development, I bring a blend of creativity, t
 - 💻 [GitHub](https://github.com/andrewjsauer)
 - 🌐 [Website](https://www.andrewjsauer.com/)
 
-I’m looking forward to collaborating on projects that blend technology with impactful, user-focused solutions. Let’s connect and create something amazing together! 🌍
+I’m looking forward to collaborating on projects that blend technology with impactful, user-focused solutions. Let’s connect and create something great! 🌍
