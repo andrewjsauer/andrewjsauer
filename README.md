@@ -26,7 +26,6 @@ With a rich background in software development, I bring a blend of creativity, t
 ### Connect with Me 📬
 - 📫 [Email](mailto:andrew@sauerApple.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andrewjsauer/)
-- 💻 [GitHub](https://github.com/andrewjsauer)
 - 🌐 [Website](https://www.andrewjsauer.com/)
 
 Let’s connect and create something great! 🌍
