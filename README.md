@@ -12,7 +12,7 @@ With a rich background in software development, I bring a blend of creativity, t
 - **BiasSync Learning Management Platform:** Collaborated with a talented team to develop and launch an initial learning management platform using React and TypeScript, integrating Video.js and Styled Components for a seamless user experience.
 - **San Gorgonio Wilderness Permit Portal:** Created a permit portal for the San Gorgonio Wilderness Association using React and Next.js, enhancing the user experience for outdoor enthusiasts.
 - **Daily Q's App:** Developed an app to facilitate daily questions for couples, leveraging OpenAI to deliver personalized and thoughtful prompts using React Native for cross-platform compatibility.
-- **Meditation App:** Built an AI-powered meditation app that generates custom audio meditations on the fly based on user inputs, combining mindfulness practices with cutting-edge AI technologies.
+- **Trail Conditions App:** Built a community-driven map-based React application using the latest MapBox API and more.
 - **Email Flow Automation:** Designed and implemented email flows utilizing custom LLMs, enabling businesses to automate and personalize communications at scale.
 
 ### Leadership & Advocacy 🌟
