@@ -1,8 +1,6 @@
 ## 👋 Hey, I’m Andrew Sauer  
 
-### 🚀 Fullstack Developer | AI 🤖 + UX 🎨 Enthusiast  
-
-I build **smart, human-centered web experiences** by blending AI and intuitive design.  
+🚀 **Fullstack Developer** blending **AI 🤖 + UX 🎨** to craft seamless, human-centered web experiences.  
 
 ---
 
