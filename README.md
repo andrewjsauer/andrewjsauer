@@ -1,5 +1,3 @@
-## 👋 Hey, I’m Andrew Sauer  
-
 🚀 **Fullstack Developer** blending **AI 🤖 + UX 🎨** to craft seamless, human-centered web experiences.  
 
 📫 [Email](mailto:andrew@sauerApple.com)  
