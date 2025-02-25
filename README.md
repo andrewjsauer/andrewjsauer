@@ -1,7 +1,5 @@
 🚀 Co-founder, full-stack developer, and product lead using AI 🤖 + UX 🎨 to shape next-gen, human-centered web experiences. My mission is to create intuitive, impactful software that transforms how people interact, explore, and connect.
 
----
-
 ### Highlights & Achievements
 
 - **Launched multiple SaaS ventures** serving diverse communities—**from hikers seeking real-time trail data** to **teams streamlining permit applications**  
@@ -9,9 +7,7 @@
 - **Built and scaled platforms** with thousands of monthly active users, recognized for robust architecture and developer-friendly integrations  
 - **Mentored cross-functional teams** and led agile development cycles to accelerate product roadmaps without compromising quality  
 
----
-
-### SaaS Companies
+### Companies
 - [**Switchbacks**](https://switchbacks.app) – Real-time trail condition reports  
 - [**Permit Portal**](https://permits.sgwa.org/) – Streamlined permit management  
 - [**Snayl.ai**](https://snayl.ai/) – Automated motivational postcards  
