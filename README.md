@@ -1,6 +1,13 @@
-### Hey there!
+🚀 Co-founder, full-stack developer, and product lead using AI 🤖 + UX 🎨 to shape next-gen, human-centered web experiences. My mission is to create intuitive, impactful software that transforms how people interact, explore, and connect.
 
-🚀 **Co-founder and full-stack developer** blending **AI 🤖 + UX 🎨** to craft seamless, human-centered web experiences.
+---
+
+### Highlights & Achievements
+
+- **Launched multiple SaaS ventures** serving diverse communities—**from hikers seeking real-time trail data** to **teams streamlining permit applications**  
+- **Spearheaded AI-driven product innovations** that blend cutting-edge technology with design thinking to deliver effortless user experiences  
+- **Built and scaled platforms** with thousands of monthly active users, recognized for robust architecture and developer-friendly integrations  
+- **Mentored cross-functional teams** and led agile development cycles to accelerate product roadmaps without compromising quality  
 
 ---
 
