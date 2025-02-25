@@ -14,9 +14,7 @@
 - [**Snay.ly**](https://snay.ly/) – Peer-to-peer emoji postcard communication
 - [**SauerApple**](https://www.sauerapple.com/) – A consultancy bridging the gap between AI and design to help businesses develop transformative digital solutions  
 
----
-
 ### Get in Touch
 - 📫 [Email](mailto:andrew@sauerApple.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/andrewjsauer/)  
-- 🌐 [Website](https://www.andrewjsauer.com/)  
+- 🌐 [Resume](https://www.andrewjsauer.com/)  
