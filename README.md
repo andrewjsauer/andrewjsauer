@@ -7,7 +7,8 @@
 - Built and scaled platforms with thousands of monthly active users, recognized for robust architecture and developer-friendly integrations.
 - Mentored cross-functional teams and led agile development cycles to accelerate product roadmaps without compromising quality.
 
-### Companies
+### Projects and Companies
+- [**PostToForever**](https://www.posttoforever.com/) – A wedding time capsule service that transforms wedding day messages, photos, and videos into physical postcards with integrated QR codes.
 - [**Switchbacks**](https://switchbacks.app) – Real-time trail condition reports  
 - [**Permit Portal**](https://permits.sgwa.org/) – Streamlined permit management  
 - [**Snayl.ai**](https://snayl.ai/) – Automated motivational postcards  
