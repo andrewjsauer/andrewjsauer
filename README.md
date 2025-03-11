@@ -9,6 +9,7 @@
 
 ### Projects and Companies
 - [**PostToForever**](https://www.posttoforever.com/) – A wedding time capsule service that transforms wedding day messages, photos, and videos into physical postcards with integrated QR codes.
+- [**Turtel.ai**](https://switchbacks.app) – An SMS-first group chat for couples that delivers curated conversation prompts tailored to your unique relationship
 - [**Switchbacks**](https://switchbacks.app) – Real-time trail condition reports  
 - [**Permit Portal**](https://permits.sgwa.org/) – Streamlined permit management  
 - [**Snayl.ai**](https://snayl.ai/) – Automated motivational postcards  
