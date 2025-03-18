@@ -1,12 +1,3 @@
-🚀 Co-founder, full-stack developer, and product lead using AI 🤖 + UX 🎨 to shape next-gen, human-centered web experiences. My mission is to create intuitive, impactful software that transforms how people interact, explore, and connect.
-
-### Highlights & Achievements
-
-- Launched multiple SaaS ventures serving diverse communities—from hikers seeking real-time trail data** to teams streamlining permit applications.
-- Spearheaded AI-driven product innovations that blend cutting-edge technology with design thinking to deliver effortless user experiences.
-- Built and scaled platforms with thousands of monthly active users, recognized for robust architecture and developer-friendly integrations.
-- Mentored cross-functional teams and led agile development cycles to accelerate product roadmaps without compromising quality.
-
 ### Projects and Companies
 - [**PostToForever**](https://www.posttoforever.com/) – A wedding time capsule service that transforms wedding day messages, photos, and videos into physical postcards with integrated QR codes.
 - [**Turtel.ai**](https://switchbacks.app) – An SMS-first group chat for couples that delivers curated conversation prompts tailored to your unique relationship
